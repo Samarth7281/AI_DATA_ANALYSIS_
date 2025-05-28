@@ -1,0 +1,3 @@
+2025-05-28 09:39:43,361 - Step: Min-Max Scaling, Details: {'min': array([10.,  1.]), 'max': array([50.,  5.])}
+2025-05-28 09:39:43,367 - Step: Robust Scaling, Details: {'median': array([30.,  3.]), 'IQR': array([20.,  2.])}
+2025-05-28 09:39:43,371 - Step: MaxAbs Scaling, Details: {'max_abs': array([50.,  5.])}
